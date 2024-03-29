@@ -12,14 +12,15 @@ https://github.com/bochita08/Fortuna_Final/assets/127541271/dcf17fd7-ae38-4550-a
 
 
 <h2>INICIO</h2>
-(https://github.com/bochita08/Fortuna_Final/assets/127541271/181d5a36-bc12-41a6-9529-adc346137796)
+![Image](https://github.com/bochita08/Fortuna_Final/assets/127541271/181d5a36-bc12-41a6-9529-adc346137796)
 
-<h2>DETALLES</h2>
-![2](https://github.com/bochita08/Fortuna_Final/assets/127541271/fe170dc0-83f4-4031-b268-b6566b19d540)
-![3](https://github.com/bochita08/Fortuna_Final/assets/127541271/1ccd8d3c-d086-4312-b2f0-7ada8a67f899)
+<h2>DETALLES</h2>![Uploading 1.jpg…]()
+
+![Image](https://github.com/bochita08/Fortuna_Final/assets/127541271/fe170dc0-83f4-4031-b268-b6566b19d540)
+![Image](https://github.com/bochita08/Fortuna_Final/assets/127541271/1ccd8d3c-d086-4312-b2f0-7ada8a67f899)
 
 <h2>LOGIN</h2>
-![4](https://github.com/bochita08/Fortuna_Final/assets/127541271/fc566150-94af-42b1-b650-dea4f4822d79)
+![Image](https://github.com/bochita08/Fortuna_Final/assets/127541271/fc566150-94af-42b1-b650-dea4f4822d79)
 
 <h2>REGISTRO</h2>
-![5](https://github.com/bochita08/Fortuna_Final/assets/127541271/2046797e-6baf-438e-81a6-ff5a2c2f3587)
+![Image](https://github.com/bochita08/Fortuna_Final/assets/127541271/2046797e-6baf-438e-81a6-ff5a2c2f3587)
