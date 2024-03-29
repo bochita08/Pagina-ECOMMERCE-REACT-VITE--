@@ -12,7 +12,7 @@ https://github.com/bochita08/Fortuna_Final/assets/127541271/dcf17fd7-ae38-4550-a
 
 
 <h2>INICIO</h2>
-![1](https://github.com/bochita08/Fortuna_Final/assets/127541271/181d5a36-bc12-41a6-9529-adc346137796)
+(https://github.com/bochita08/Fortuna_Final/assets/127541271/181d5a36-bc12-41a6-9529-adc346137796)
 
 <h2>DETALLES</h2>
 ![2](https://github.com/bochita08/Fortuna_Final/assets/127541271/fe170dc0-83f4-4031-b268-b6566b19d540)
